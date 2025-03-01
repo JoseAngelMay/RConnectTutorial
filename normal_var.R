@@ -8,3 +8,5 @@ median(x)
 # git add .
 # git commit -m "message"
 # git push
+
+mean(x)
